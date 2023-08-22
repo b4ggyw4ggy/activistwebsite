@@ -1,0 +1,91 @@
+/* STYLE SECTIONING TAGS */
+ ol { 
+    display: block;
+    list-style-type: decimal;
+    margin-block-start: 3em;
+    margin-block-end: 1em;
+    margin-inline-start:10px;
+    margin-inline-end: 10px;
+    padding-inline-start: 40px;
+}
+
+body {
+ font: arial;
+ text-align: center;
+ background-color: #fff714; 
+
+
+/* STYLE TEXT */
+
+h1 {
+   (min-width: 768px)
+}
+  color: #000814;
+}
+header.banner .container, {
+  
+    position: relative;
+}
+/* STYLE IMAGES */
+img {
+    max-width: 1000px;
+    max-height: 1000px;
+    border: 5px solid #000000;
+    box-shadow:1000px 1000px 1000px 1000px black inset;
+    border-radius: 50px 50px;
+}
+/* STYLE NAV BAR */
+  
+
+/* ADD MORE! */
+/* STYLE BUTTONS */
+
+/* flex or smthign */
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+.flex-item {
+  flex-basis: 100%
+  margin: 1%;
+}
+body {
+  font-family: "Courier New", Courier New;
+  text-align: center;
+  color: #3a3027;
+  background-image: #000000;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+ul {
+  list-style-type: none;
+  background-color: #ffab1a;
+  overflow: hidden;
+  padding: 1em;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.3em;
+  padding: 1em;
+}
+
+li a:hover {
+  background-color: #003566;
+}
+
+.bio {
+  text-align: left;
+}
+
+.link {
+  color: teal;
+}
